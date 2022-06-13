@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "mesa-lounge-chair-in-beige-colour-by-adorn-homez-mesa-lounge-chair-in-beige-colour-by-adorn-homez-lwlovi.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
